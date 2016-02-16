@@ -52,6 +52,7 @@ ncrunch*
 
 #Nuget packages
 /src/packages/**/
+packages/**/
 !/src/packages/repositories.config
 publish*
 packer*
@@ -59,3 +60,4 @@ Misc*
 NugetServerPublish*
 Nuget.Server*
 nuget*/
+.nuget*/
